@@ -1,3 +1,3 @@
 <scripr>
-  Alert("Amother file");
+  Alert("Another file");
  </scripr>
